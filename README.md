@@ -1,16 +1,17 @@
+### 👋 Hi, I'm **Adeleke Oluwafemi**
 
-### 👋 Hi, I’m **Adeleke Oluwafemi**
-
-* 💻 I’m a **backend engineer** specializing in building **enterprise-grade systems** and **scalable architectures**.
-* 🚀 I design and develop **distributed systems**, **microservices**, and **AI-driven solutions** with strong expertise in:
-  **Python (Django, FastAPI, Flask)**, **TypeScript/JavaScript (NestJS)**, and **Cloud Platforms** — **AWS**, **GCP**, and **Azure**.
-* ⚙️ My focus areas include **cloud-native infrastructure**, **system design**, **event-driven architectures**, and **AI agent integrations**.
-* 🤝 I’m open to collaborating on **innovative backend, AI, and cloud engineering projects**.
-* 📫 Reach out to me at **(+234) 810 555 9441** or connect here on GitHub.
-* ⚡ Fun fact: I’m a **cracked engineer** — I love shipping clean, efficient, and production-ready code fast.
-
-
-
+* 🏗️ I'm a **Solution Architect & Full-Stack Engineer** with **5+ years of experience** designing and delivering enterprise-grade, production-ready systems at scale.
+* 🚀 My expertise spans the full engineering spectrum:
+  - **Backend & Microservices** — Python (Django, FastAPI, Flask), TypeScript/JavaScript (NestJS)
+  - **Frontend** — Modern web interfaces and component-driven UIs
+  - **Mobile** — Cross-platform mobile application development
+  - **AI & Machine Learning** — AI agent integrations, ML pipelines, and intelligent system design
+  - **Cloud Architecture & Engineering** — AWS, GCP, Azure — cloud-native infrastructure, serverless, and IaC
+  - **Systems Analysis** — Requirements gathering, technical scoping, and architectural decision-making
+* ⚙️ Core focus areas: **distributed systems**, **event-driven architectures**, **serverless microservices**, **cloud-native infrastructure**, and **AI-driven solutions**
+* 🤝 Open to collaborating on **innovative backend, AI, cloud, and full-stack engineering projects**
+* 📫 Reach me at **(+234) 810 555 9441** or connect via the links below
+* ⚡ Fun fact: I'm a **cracked engineer** — I love shipping clean, efficient, and production-ready solutions fast
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://x.com/adelekecode)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/adelekecode)
